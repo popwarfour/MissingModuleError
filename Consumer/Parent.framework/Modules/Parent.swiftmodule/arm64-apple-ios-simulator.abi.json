@@ -1,0 +1,138 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Parent",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Child",
+        "printedName": "Child",
+        "declKind": "Import",
+        "moduleName": "Parent",
+        "declAttributes": [
+          "AccessControl",
+          "Exported"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MyParent",
+        "printedName": "MyParent",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MyParent",
+                "printedName": "Parent.MyParent",
+                "usr": "s:6Parent02MyA0C"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:6Parent02MyA0CACycfc",
+            "mangledName": "$s6Parent02MyA0CACycfc",
+            "moduleName": "Parent",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "child",
+            "printedName": "child",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MyChild",
+                "printedName": "Child.MyChild",
+                "usr": "s:5Child02MyA0C"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:6Parent02MyA0C5child5Child0bD0Cvp",
+            "mangledName": "$s6Parent02MyA0C5child5Child0bD0Cvp",
+            "moduleName": "Parent",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MyChild",
+                    "printedName": "Child.MyChild",
+                    "usr": "s:5Child02MyA0C"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6Parent02MyA0C5child5Child0bD0Cvg",
+                "mangledName": "$s6Parent02MyA0C5child5Child0bD0Cvg",
+                "moduleName": "Parent",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "doThing",
+            "printedName": "doThing()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Parent02MyA0C7doThingyyF",
+            "mangledName": "$s6Parent02MyA0C7doThingyyF",
+            "moduleName": "Parent",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:6Parent02MyA0C",
+        "mangledName": "$s6Parent02MyA0C",
+        "moduleName": "Parent",
+        "declAttributes": [
+          "Final",
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

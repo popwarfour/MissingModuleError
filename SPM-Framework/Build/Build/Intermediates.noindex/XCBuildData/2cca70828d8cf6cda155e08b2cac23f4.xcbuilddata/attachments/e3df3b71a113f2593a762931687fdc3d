@@ -1,4 +1,0 @@
-module Child {
-header "Child-Swift.h"
-export *
-}
