@@ -1,0 +1,6 @@
+framework module Parent {
+  umbrella header "Parent.h"
+  export *
+
+  module * { export * }
+}

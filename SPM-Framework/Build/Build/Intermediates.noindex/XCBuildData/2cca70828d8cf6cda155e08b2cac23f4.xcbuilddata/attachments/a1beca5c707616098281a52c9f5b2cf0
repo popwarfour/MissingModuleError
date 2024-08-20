@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/amelen/Library/Developer/Xcode/DerivedData/Parent-fgbhevfscntzbsbnykysyewiaalz/Build/Intermediates.noindex/Parent.build/Debug-iphonesimulator/Parent.build/Objects-normal/arm64/Parent-master.dia",
+    "emit-module-dependencies" : "/Users/amelen/Library/Developer/Xcode/DerivedData/Parent-fgbhevfscntzbsbnykysyewiaalz/Build/Intermediates.noindex/Parent.build/Debug-iphonesimulator/Parent.build/Objects-normal/arm64/Parent-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/amelen/Library/Developer/Xcode/DerivedData/Parent-fgbhevfscntzbsbnykysyewiaalz/Build/Intermediates.noindex/Parent.build/Debug-iphonesimulator/Parent.build/Objects-normal/arm64/Parent-master-emit-module.dia",
+    "swift-dependencies" : "/Users/amelen/Library/Developer/Xcode/DerivedData/Parent-fgbhevfscntzbsbnykysyewiaalz/Build/Intermediates.noindex/Parent.build/Debug-iphonesimulator/Parent.build/Objects-normal/arm64/Parent-master.swiftdeps"
+  },
+  "/Users/amelen/Desktop/Example/SPM-Framework/Parent/Parent/Parent.swift" : {
+    "const-values" : "/Users/amelen/Library/Developer/Xcode/DerivedData/Parent-fgbhevfscntzbsbnykysyewiaalz/Build/Intermediates.noindex/Parent.build/Debug-iphonesimulator/Parent.build/Objects-normal/arm64/Parent.swiftconstvalues",
+    "dependencies" : "/Users/amelen/Library/Developer/Xcode/DerivedData/Parent-fgbhevfscntzbsbnykysyewiaalz/Build/Intermediates.noindex/Parent.build/Debug-iphonesimulator/Parent.build/Objects-normal/arm64/Parent.d",
+    "diagnostics" : "/Users/amelen/Library/Developer/Xcode/DerivedData/Parent-fgbhevfscntzbsbnykysyewiaalz/Build/Intermediates.noindex/Parent.build/Debug-iphonesimulator/Parent.build/Objects-normal/arm64/Parent.dia",
+    "index-unit-output-path" : "/Parent.build/Debug-iphonesimulator/Parent.build/Objects-normal/arm64/Parent.o",
+    "llvm-bc" : "/Users/amelen/Library/Developer/Xcode/DerivedData/Parent-fgbhevfscntzbsbnykysyewiaalz/Build/Intermediates.noindex/Parent.build/Debug-iphonesimulator/Parent.build/Objects-normal/arm64/Parent.bc",
+    "object" : "/Users/amelen/Library/Developer/Xcode/DerivedData/Parent-fgbhevfscntzbsbnykysyewiaalz/Build/Intermediates.noindex/Parent.build/Debug-iphonesimulator/Parent.build/Objects-normal/arm64/Parent.o",
+    "swift-dependencies" : "/Users/amelen/Library/Developer/Xcode/DerivedData/Parent-fgbhevfscntzbsbnykysyewiaalz/Build/Intermediates.noindex/Parent.build/Debug-iphonesimulator/Parent.build/Objects-normal/arm64/Parent.swiftdeps",
+    "swiftmodule" : "/Users/amelen/Library/Developer/Xcode/DerivedData/Parent-fgbhevfscntzbsbnykysyewiaalz/Build/Intermediates.noindex/Parent.build/Debug-iphonesimulator/Parent.build/Objects-normal/arm64/Parent~partial.swiftmodule"
+  }
+}

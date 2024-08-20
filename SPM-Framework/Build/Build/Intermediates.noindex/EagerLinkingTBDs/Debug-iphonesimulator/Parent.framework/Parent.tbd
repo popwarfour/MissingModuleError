@@ -1,0 +1,60 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s5Child02MyA0CMa",
+            "_$s6Parent02MyA0C7doThingyyF",
+            "_$s6Parent02MyA0CMa",
+            "_$s6Parent02MyA0CMo",
+            "_$s6Parent02MyA0CMn",
+            "_ParentVersionString",
+            "_ParentVersionNumber",
+            "_$s5Child02MyA0CN",
+            "_$s5Child02MyA0CACycfC",
+            "_$s5Child02MyA0CfD",
+            "_$s6Parent02MyA0CN",
+            "_$s6Parent02MyA0CfD",
+            "_$s5Child02MyA0CMn",
+            "_$s6Parent02MyA0C5child5Child0bD0Cvg",
+            "_$s5Child02MyA0C7doThingyyF",
+            "_$s6Parent02MyA0CACycfc",
+            "_$s6Parent02MyA0C5child5Child0bD0CvpMV",
+            "_$s5Child02MyA0CMo",
+            "_$s6Parent02MyA0CACycfC",
+            "_$s5Child02MyA0CACycfc"
+          ],
+          "objc_class": [
+            "_TtC5Child7MyChild",
+            "_TtC6Parent8MyParent"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/Parent.framework/Parent"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "17.4",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}
